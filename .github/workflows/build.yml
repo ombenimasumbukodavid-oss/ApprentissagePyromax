@@ -37,6 +37,3 @@ jobs:
       with:
         name: app-debug
         path: bin/*.apk
-      with:
-        name: app-debug
-        path: bin/*.apk
