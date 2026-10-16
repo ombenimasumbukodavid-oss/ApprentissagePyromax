@@ -1,0 +1,3 @@
+Lancer : python main.py
+Optionnel : pyromax_background.jpg doit rester dans le même dossier que main.py.
+Installation requise : pip install kivy
