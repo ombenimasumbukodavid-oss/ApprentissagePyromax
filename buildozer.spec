@@ -11,8 +11,9 @@ fullscreen = 0
 android.permissions = WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE
 android.api = 33
 android.minapi = 21
-android.sdk = 30
-android.ndk = 25b
+# Commentez ou supprimez les lignes android.sdk et android.ndk en ajoutant un '#' devant pour laisser Buildozer choisir les versions compatibles automatiquement :
+# android.sdk = 30
+# android.ndk = 25b
 android.archs = arm64-v8a
 
 [buildozer]
